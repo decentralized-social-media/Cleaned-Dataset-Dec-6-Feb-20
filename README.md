@@ -1,2 +1,3 @@
-# Original-Dataset-Winter-Olympics 2022
-The datasets in the folder collects the data from Steemit starting from 12/6/2021 to 2/20/2022.
+# Cleaned-Dataset-Dec-6-Feb-20
+
+The repository contains data from December 6, 2021 to February 8, 2022 with preprocessing process, including body and geolocation text cleaning.
